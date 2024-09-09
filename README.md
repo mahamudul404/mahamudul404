@@ -1,11 +1,8 @@
-<!-- Header with Logo -->
-<img src="https://yourdomain.com/your-logo.png" alt="Logo" width="200" style="display:block; margin:auto;"/>
-
 # Hello, I'm Mahamudul Hasan 👋
 
 ## Full Stack Web Developer | Laravel Enthusiast
 
-I'm passionate about creating beautiful and functional web applications. Currently diving deep into Laravel and exploring advanced web development techniques. 🚀
+I'm passionate about creating beautiful and functional web applications. I am currently diving deep into Laravel and exploring advanced web development techniques. 🚀
 
 ---
 
@@ -54,7 +51,7 @@ I'm passionate about creating beautiful and functional web applications. Current
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahamudulHasan&show_icons=true&hide_title=true&hide=prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahamudulHasan&layout=compact&theme=radical)
+
 
 ## 📊 Contributions
 
@@ -79,7 +76,7 @@ I'm passionate about creating beautiful and functional web applications. Current
 
 **Thank you for visiting my profile! Feel free to connect with me and check out my work.**
 
-[LinkedIn](https://www.linkedin.com/in/mahamudulhasan) | [Email](mailto:mahamuduljalal@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/md-mahamudul-hasan-mahmud/) | [Email](mailto:mahamudul408432@gmail.com)
 
 ---
 
