@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**mahamudul404/mahamudul404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m Mahamudul Hasan, a passionate Full Stack Developer. I specialize in creating efficient and scalable web applications. I’m currently learning Laravel and exploring new technologies.
 
-Here are some ideas to get you started:
+## Skills
+- **Front-End:** HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
+- **Back-End:** PHP, Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Panda Commerce](https://github.com/MahamudulHasan/panda-commerce): An innovative e-commerce platform.
+- [Pioneer Bank](https://github.com/MahamudulHasan/pioneer-bank): A modern banking application.
+- [Laravel CRUD](https://github.com/MahamudulHasan/laravel-crud): A CRUD application built with Laravel.
+- [Student Management System](https://github.com/MahamudulHasan/laravel-student-management): A comprehensive student management solution.
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/mahamudulhasan)
+- [Email](mailto:mahamuduljalal@gmail.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahamudulHasan&show_icons=true&theme=radical)
