@@ -29,11 +29,6 @@ I’m a **Full Stack Web Developer** with a passion for creating beautiful and f
 - **[Laravel CRUD](https://github.com/MahamudulHasan/laravel-crud)**: A basic CRUD application using Laravel.
 - **[Student Management System](https://github.com/MahamudulHasan/laravel-student-management)**: A comprehensive student management solution.
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahamudulHasan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahamudulHasan&layout=compact&theme=radical)
-
 ## 📈 Contributions
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MahamudulHasan&theme=radical)
