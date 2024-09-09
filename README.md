@@ -23,7 +23,7 @@ I'm passionate about creating beautiful and functional web applications. I am cu
 
 ## 🔭 Currently Working On
 
-- **[Student Management System](https://github.com/MahamudulHasan/laravel-student-management)**: A comprehensive student management solution.
+- **[Student Management System](https://github.com/mahamudul404/my-auth-project)**: A comprehensive student management solution.
 
 ## 🌱 Currently Learning
 
@@ -35,7 +35,7 @@ I'm passionate about creating beautiful and functional web applications. I am cu
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/mahamudulhasan) | [Email](mailto:mahamuduljalal@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/md-mahamudul-hasan-mahmud/) | [Email](mailto:mahamudul408432@gmail.com)
 
 ---
 
@@ -43,21 +43,19 @@ I'm passionate about creating beautiful and functional web applications. I am cu
 
 ## 🛠️ Featured Projects
 
-- **[Panda Commerce](https://github.com/MahamudulHasan/panda-commerce)**: A modern e-commerce platform with advanced features. 🛒
-- **[Pioneer Bank](https://github.com/MahamudulHasan/pioneer-bank)**: A sophisticated banking application with a sleek interface. 🏦
-- **[Laravel CRUD](https://github.com/MahamudulHasan/laravel-crud)**: A basic CRUD application using Laravel. 📋
-- **[Student Management System](https://github.com/MahamudulHasan/laravel-student-management)**: A comprehensive student management solution. 🎓
+- **[Panda Commerce](https://github.com/mahamudul404/Pioneer-Bank)**: A modern e-commerce platform with advanced features. 🛒
+- **[Pioneer Bank](https://github.com/mahamudul404/pioneer-bank)**: A sophisticated banking application with a sleek interface. 🏦
+- **[Laravel CRUD](https://github.com/mahamudul404/laravel-crud)**: A basic CRUD application using Laravel. 📋
+- **[Student Management System](https://github.com/mahamudul404/laravel-student-management)**: A comprehensive student management solution. 🎓
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahamudulHasan&show_icons=true&hide_title=true&hide=prs&theme=radical)
-
-
-## 📊 Contributions
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MahamudulHasan&theme=radical)
+**GitHub Stats**
+- Stars: 10
+- Forks: 5
+- Contributions: 20
 
 ---
 
