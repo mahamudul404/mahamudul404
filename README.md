@@ -17,4 +17,4 @@ I’m Mahamudul Hasan, a passionate Full Stack Developer. I specialize in creati
 - [LinkedIn](https://www.linkedin.com/in/mahamudulhasan)
 - [Email](mailto:mahamuduljalal@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahamudulHasan&show_icons=true&theme=radical)
+
