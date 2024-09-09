@@ -23,7 +23,7 @@ I'm passionate about creating beautiful and functional web applications. I am cu
 
 ## 🔭 Currently Working On
 
-- **[Student Management System](https://github.com/mahamudul404/my-auth-project)**: A comprehensive student management solution.
+- **[Student Authentication System](https://github.com/mahamudul404/my-auth-project)**: A comprehensive student management solution.
 
 ## 🌱 Currently Learning
 
@@ -45,8 +45,8 @@ I'm passionate about creating beautiful and functional web applications. I am cu
 
 - **[Panda Commerce](https://github.com/mahamudul404/Pioneer-Bank)**: A modern e-commerce platform with advanced features. 🛒
 - **[Pioneer Bank](https://github.com/mahamudul404/pioneer-bank)**: A sophisticated banking application with a sleek interface. 🏦
-- **[Laravel CRUD](https://github.com/mahamudul404/laravel-crud)**: A basic CRUD application using Laravel. 📋
-- **[Student Management System](https://github.com/mahamudul404/laravel-student-management)**: A comprehensive student management solution. 🎓
+- **[Laravel CRUD](https://github.com/mahamudul404/crud_app)**: A basic CRUD application using Laravel. 📋
+- **[Student Management System](https://github.com/mahamudul404/Students_Departments)**: A comprehensive student management solution. 🎓
 
 ---
 
