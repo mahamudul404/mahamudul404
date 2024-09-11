@@ -1,70 +1,67 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mahamudul Hasan 👋
 
-Welcome to my GitHub profile! I'm a Laravel developer passionate about building web applications, learning new technologies, and sharing my knowledge with others.
+Welcome to my GitHub profile! I’m a Laravel developer dedicated to creating elegant web applications and constantly honing my skills.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Laravel** and modern web development techniques.
-- 💻 I’m working on a **Laravel CRUD app** project, building with simplicity and efficiency.
-- 👯 I’m looking to collaborate on **open-source Laravel projects**.
-- 💬 Ask me about **PHP, Laravel, and web development**.
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 🌱 **Currently Learning**: Laravel and Full-Stack Development.
+- 💻 **Working on**: A **Laravel CRUD app** featuring Dark Mode and Pagination.
+- 🎯 **Goals**: Contribute to **open-source** projects and develop scalable web solutions.
+- 💬 **Ask me about**: PHP, Laravel, MySQL, and Web Development Tools.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ My Skills
 
-- **Languages:** PHP, JavaScript, HTML, CSS, SQL
-- **Frameworks/Libraries:** Laravel, Bootstrap, Vue.js (optional)
-- **Databases:** MySQL, SQLite
-- **Version Control:** Git, GitHub
-- **Other Tools:** VS Code, Composer, Postman
+- **Languages**:
+  - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
+- **Frameworks**:
+  - ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  - ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  - ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🔥 My Projects
+- **Database**:
+  - ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### [Project Name 1](https://github.com/yourusername/project1)
-_A brief description of your project and what it does._
-
-- Features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- Tech Stack: Laravel, MySQL, Bootstrap
-
-### [Project Name 2](https://github.com/yourusername/project2)
-_A brief description of another project you're proud of._
-
-- Features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- Tech Stack: Laravel, Vue.js, SQLite
+- **Version Control**:
+  - ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 My Recent Project
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### [Laravel CRUD App with Dark Mode](https://github.com/mahamudul-hasan/laravel-crud-dark-mode)
+A simple yet powerful Laravel CRUD application featuring:
+- **Dark Mode** toggle
+- **Pagination** for seamless navigation
+- **Profile Picture Upload**
 
----
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- Twitter: [Your Twitter](https://twitter.com/yourtwitter)
-- Personal Website/Blog: [yourwebsite.com](https://yourwebsite.com)
+<p align="center">
+    <a href="https://linkedin.com/in/mahamudulhasan" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/mahamudulhasan" target="_blank">
+        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="mailto:mahamudul.hasan@example.com">
+        <img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+</p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
-- **Open Source Contributions**: Contributed to various open-source projects, including [Project Name](https://github.com/project-url).
-- **Certifications**: [Your Certification Name](https://linktocertification)
-
----
-
-Thank you for visiting my GitHub profile! 😊
+- **Open Source Contributions**: [Open Laravel](https://github.com/open-laravel)
+- **Certifications**: [Your Certification Name](https://certification-link)
