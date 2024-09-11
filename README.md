@@ -1,85 +1,61 @@
-# Hello, I'm Mahamudul Hasan 👋
+<h1 align="center">Hi 👋, I'm Rahul</h1>
 
-## 🛠️ Skills & Technologies
+<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
-**Front-End:** 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Back-End:** 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-%23F05240.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
----
-
-## Full Stack Web Developer | Laravel Enthusiast
-
-I'm passionate about creating beautiful and functional web applications. I am currently diving deep into Laravel and exploring advanced web development techniques. 🚀
-
----
-
-## 🔭 Currently Working On
-
-- **[Post_comment_system](https://github.com/mahamudul404/post_comment_system)**: Post picture, and comment and impression in this post.
-
-- **[Student Authentication System](https://github.com/mahamudul404/my-auth-project)**: A comprehensive student management solution.
-
-## 🌱 Currently Learning
-
-- Advanced Laravel features and Tailwind CSS
-
-## 💬 Ask Me About
-
-- PHP, Laravel, JavaScript, and web development best practices
-
-## 📫 How to Reach Me
-
-- [LinkedIn](https://www.linkedin.com/in/md-mahamudul-hasan-mahmud/) | [Email](mailto:mahamudul408432@gmail.com)
-
----
+<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
 
 
+- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
-## 🛠️ Featured Projects
+- 💬 Ask me about **react, vue and gsap**
 
-- **[Panda Commerce](https://github.com/mahamudul404/Pioneer-Bank)**: A modern e-commerce platform with advanced features. 🛒
-- **[Pioneer Bank](https://github.com/mahamudul404/pioneer-bank)**: A sophisticated banking application with a sleek interface. 🏦
-- **[Laravel CRUD](https://github.com/mahamudul404/crud_app)**: A basic CRUD application using Laravel. 📋
-- **[Student Management System](https://github.com/mahamudul404/Students_Departments)**: A comprehensive student management solution. 🎓
+- 📫 Reach me at **rahuldkjain@gmail.com**
 
----
+- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
 
-## 📈 GitHub Stats
+- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
-**GitHub Stats**
-- Stars: 10
-- Forks: 5
-- Contributions: 20
+I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blog)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+</p>
 
-## 📝 Blog Posts
+**📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
+<!-- BLOG-POST-LIST:START -->
+- [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
+- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
+- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
+- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
+<!-- BLOG-POST-LIST:END -->
 
-- [Understanding Laravel Middleware](https://medium.com/@mahamudulhasan/understanding-laravel-middleware) 📖
-- [10 Tips for Front-End Developers](https://medium.com/@mahamudulhasan/10-tips-for-front-end-developers) ✨
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+      <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
+    <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> 
+  <a href="https://gridsome.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/</a>
+    <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+      <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+    </p>
 
----
 
-## Fun Fact
-
-🎨 I love experimenting with new design trends and UI/UX patterns to create visually appealing applications. Here's a fun animated GIF to brighten your day!
-
-![Fun Animation](https://media.giphy.com/media/3o6UB8dfFzvM0X1GgI/giphy.gif)
-
----
-
-**Thank you for visiting my profile! Feel free to connect with me and check out my work.**
-
-[LinkedIn](https://www.linkedin.com/in/md-mahamudul-hasan-mahmud/) | [Email](mailto:mahamudul408432@gmail.com)
-
----
-
-_Design inspired by [README.md Templates](https://github.com/rahuldkjain/github-profile-readme-generator)_
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true alt=rahuldkjain /> </p>
