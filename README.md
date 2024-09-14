@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I’m a Laravel developer dedicated to creating el
 
 ## 🔥 My Recent Project
 
-### [Laravel CRUD App with Dark Mode](https://github.com/mahamudul404/school_management.git)
+### [Laravel School Management project](https://github.com/mahamudul404/school_management.git)
 A simple yet powerful Laravel CRUD application featuring:
 - **Dark Mode** toggle
 - **Pagination** for seamless navigation
