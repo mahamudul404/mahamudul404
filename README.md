@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I’m a Laravel developer dedicated to creating el
 
 ## 🔥 My Recent Project
 
-### [Laravel CRUD App with Dark Mode](https://github.com/mahamudul-hasan/laravel-crud-dark-mode)
+### [Laravel CRUD App with Dark Mode](https://github.com/mahamudul404/school_management.git)
 A simple yet powerful Laravel CRUD application featuring:
 - **Dark Mode** toggle
 - **Pagination** for seamless navigation
@@ -48,13 +48,13 @@ A simple yet powerful Laravel CRUD application featuring:
 ## 📫 Connect with Me
 
 <p align="center">
-    <a href="https://linkedin.com/in/mahamudulhasan" target="_blank">
+    <a href="https://www.linkedin.com/in/md-mahamudul-hasan-mahmud/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://twitter.com/mahamudulhasan" target="_blank">
+    <a href="https://x.com/MdMaham00427227" target="_blank">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <a href="mailto:mahamudul.hasan@example.com">
+    <a href="mailto:mahamudul4048432@gmail.com">
         <img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
