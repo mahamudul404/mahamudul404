@@ -1,67 +1,47 @@
-# Hi there, I'm Mahamudul Hasan 👋
+# Hi there 👋, I'm Mahamudul Hasan
 
-Welcome to my GitHub profile! I’m a Laravel developer dedicated to creating elegant web applications and constantly honing my skills.
+![Profile views](https://gpvc.arturio.dev/mahamudul404)
 
----
+### 🔭 I’m currently working on:
+- Laravel projects like TaskMaster and an E-Commerce app
+- Learning object-oriented programming in PHP
+- Building my knowledge of JavaScript
 
-## 🚀 About Me
+### 🌱 I’m currently learning:
+- Laravel Breeze authentication
+- Advanced Git and GitHub
 
-- 🌱 **Currently Learning**: Laravel and Full-Stack Development.
-- 💻 **Working on**: A **Laravel CRUD app** featuring Dark Mode and Pagination.
-- 🎯 **Goals**: Contribute to **open-source** projects and develop scalable web solutions.
-- 💬 **Ask me about**: PHP, Laravel, MySQL, and Web Development Tools.
+### 🚀 Technologies I work with:
+- PHP, Laravel, Bootstrap, MySQL
+- JavaScript, HTML, CSS
+- Git & GitHub
 
----
-
-## 🛠️ My Skills
-
-- **Languages**:
-  - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-- **Frameworks**:
-  - ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  - ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  - ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-- **Database**:
-  - ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-- **Version Control**:
-  - ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🛠 Tools I Use:
+- VS Code
+- Figma
+- Postman
 
 ---
 
-## 🔥 My Recent Project
+### 📊 GitHub Stats
 
-### [Laravel School Management project](https://github.com/mahamudul404/school_management.git)
-A simple yet powerful Laravel CRUD application featuring:
-- **Dark Mode** toggle
-- **Pagination** for seamless navigation
-- **Profile Picture Upload**
-
-
-## 📫 Connect with Me
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/md-mahamudul-hasan-mahmud/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://x.com/MdMaham00427227" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="mailto:mahamudul4048432@gmail.com">
-        <img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</p>
+[![Mahamudul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahamudul404&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🏆 Achievements & Certifications
+### 📈 GitHub Streak
 
-- **Open Source Contributions**: [Open Laravel](https://github.com/open-laravel)
-- **Certifications**: [Your Certification Name](https://certification-link)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahamudul404&theme=radical)](https://git.io/streak-stats)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahamudul404&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📬 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mahamudul404/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mahamudul404@gmail.com)
+
