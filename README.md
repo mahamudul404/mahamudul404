@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Mahamudul Hasan!
 
-![Profile views](https://gpvc.arturio.dev/mahamudul404)
-
 ### 🔭 I’m currently working on:
 - 🌟 **TaskMaster**: A task management Laravel app
 - 🛍️ **E-Commerce Store**: An advanced Laravel project
@@ -41,7 +39,7 @@
 
 - [**TaskMaster**](https://github.com/mahamudul404/taskmaster) - A task management app built with Laravel.
 - [**E-Commerce Store**](https://github.com/mahamudul404/ecommerce-store) - An online store built with Laravel, Bootstrap, and MySQL.
-- [**To-Do List**](https://github.com/mahamudul404/todo-list) - A simple Laravel CRUD app with Bootstrap.
+- [**To-Do List**](https://https://github.com/mahamudul404/intern-php-task/tree/main/todo-app) - A simple Laravel CRUD app with Bootstrap.
 
 ---
 
@@ -54,6 +52,6 @@
 
 ### 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mahamudul404/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mahamudul404@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mahamudul408432@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/mahamudul404)
 
