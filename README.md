@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Mahamudul Hasan
 
-![Profile views](https://gpvc.arturio.dev/mahamudul404)
-
 ### 🔭 I’m currently working on:
 - Laravel projects like TaskMaster and an E-Commerce app
 - Learning object-oriented programming in PHP
