@@ -39,16 +39,8 @@
 
 - [**TaskMaster**](https://github.com/mahamudul404/taskmaster) - A task management app built with Laravel.
 - [**E-Commerce Store**](https://github.com/mahamudul404/ecommerce-store) - An online store built with Laravel, Bootstrap, and MySQL.
-- [**To-Do List**](https://https://github.com/mahamudul404/intern-php-task/tree/main/todo-app) - A simple Laravel CRUD app with Bootstrap.
+- [**To-Do List**](https://github.com/mahamudul404/TaskMaster.git) - A simple Laravel CRUD app with Bootstrap.
 
----
-
-### ⚙️ Workflow Automation & Updates
-
-- 📥 **Recently updated repositories**: [GitHub Action to fetch recent updates](https://github.com/marketplace/actions/recent-repo-update-readme)
-- ✍️ **GitHub Activity**: [GitHub Action to show your recent activity](https://github.com/marketplace/actions/github-activity-readme)
-
----
 
 ### 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mahamudul404/)
