@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on:
 - 🌟 **TaskMaster**: A task management Laravel app
-- 🛍️ **E-Commerce Store**: An advanced Laravel project
+- 🛍️ **E-Commerce-projects**: An advanced Laravel project
 - 🎯 Exploring **OOP** in PHP & mastering **JavaScript**
 
 ### 🌱 I’m currently learning:
@@ -36,9 +36,8 @@
 ---
 
 ### 🌟 Latest Projects
-
+- [**E-Commerce-project**](https://github.com/mahamudul404/ecommerce_project.git) - An online store built with Laravel, Bootstrap, and MySQL.
 - [**TaskMaster**](https://github.com/mahamudul404/taskmaster) - A task management app built with Laravel.
-- [**E-Commerce Store**](https://github.com/mahamudul404/ecommerce-store) - An online store built with Laravel, Bootstrap, and MySQL.
 - [**To-Do List**](https://github.com/mahamudul404/TaskMaster.git) - A simple Laravel CRUD app with Bootstrap.
 
 
