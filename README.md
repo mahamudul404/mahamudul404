@@ -1,14 +1,5 @@
 # Hi there 👋, I'm Mahamudul Hasan!
 
-### 🔭 I’m currently working on:
-- 🌟 **TaskMaster**: A task management Laravel app
-- 🛍️ **E-Commerce-projects**: An advanced Laravel project
-- 🎯 Exploring **OOP** in PHP & mastering **JavaScript**
-
-### 🌱 I’m currently learning:
-- Laravel Breeze authentication & task handling
-- Advanced Git workflows & best practices
-
 ### 💼 Technologies & Tools:
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -44,5 +35,4 @@
 ### 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mahamudul404/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mahamudul408432@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/mahamudul404)
 
